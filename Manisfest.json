@@ -1,0 +1,10 @@
+{
+  "name": "Choco Translator",
+  "description": "Tradutor PT-EN para Revenge Classic",
+  "authors": [
+    {
+      "name": "Choco"
+    }
+  ],
+  "version": "1.0.0"
+}
